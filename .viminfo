@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1649646986,,"q"
+|2,0,1649647973,,"q"
 ::w
-|2,0,1649646982,,":w"
+|2,0,1649647969,,":w"
 :w
 |2,0,1649632444,,"w"
 :Q
@@ -33,16 +33,28 @@
 # Registers:
 
 # File marks:
-'0  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
-|4,48,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
-'1  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,49,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
-'2  1  0  ~/gitconfig
-|4,50,1,0,1649627156,"~/gitconfig"
+'0  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,48,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+'1  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,49,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+'2  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,50,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+'3  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,51,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+'4  1  0  ~/gitconfig
+|4,52,1,0,1649627156,"~/gitconfig"
 
 # Jumplist (newest first):
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
 -'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
 |4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,1,0,1649646857,"~/alx-low_level_programming/0x00-hello_world/main.c"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/main.c
 |4,39,1,0,1649646857,"~/alx-low_level_programming/0x00-hello_world/main.c"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
@@ -57,8 +69,25 @@
 |4,39,1,0,1649627156,"~/gitconfig"
 -'  1  0  ~/gitconfig
 |4,39,1,0,1649627156,"~/gitconfig"
+-'  1  0  ~/gitconfig
+|4,39,1,0,1649627156,"~/gitconfig"
+-'  1  0  ~/gitconfig
+|4,39,1,0,1649627156,"~/gitconfig"
+-'  1  0  ~/gitconfig
+|4,39,1,0,1649627156,"~/gitconfig"
+-'  1  0  ~/gitconfig
+|4,39,1,0,1649627156,"~/gitconfig"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/0x00-hello_world/0-main.c
+	*	1649647972	0
+	"	11	0
+	^	11	1
+	.	11	0
+	+	1	18
+	+	6	30
+	+	11	0
 
 > ~/alx-low_level_programming/0x00-hello_world/main.c
 	*	1649646984	0
@@ -66,11 +95,6 @@
 	^	11	1
 	.	11	0
 	+	11	0
-
-> ~/alx-low_level_programming/0x00-hello_world/0-main.c
-	*	1649632446	0
-	"	1	0
-	^	1	0
 
 > ~/gitconfig
 	*	1649627155	0

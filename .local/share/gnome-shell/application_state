@@ -1,14 +1,7 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="snap-store_ubuntu-software.desktop" score="216" last-seen="1649440006"/>
-    <application id="org.gnome.Nautilus.desktop" score="11" last-seen="1649450971"/>
-    <application id="gnome-initial-setup.desktop" score="17" last-seen="1649440009"/>
-    <application id="firefox.desktop" score="11" last-seen="1649508590"/>
-    <application id="thunderbird.desktop" score="0" last-seen="1649450926"/>
-    <application id="org.gnome.Terminal.desktop" score="4833" last-seen="1649646460"/>
-    <application id="gnome-control-center.desktop" score="2" last-seen="1649508617"/>
-    <application id="update-manager.desktop" score="12" last-seen="1649502256"/>
-    <application id="apport-gtk.desktop" score="621" last-seen="1649439995"/>
+    <application id="org.gnome.Terminal.desktop" score="230822.5" last-seen="1656208318"/>
+    <application id="update-manager.desktop" score="0" last-seen="1656208540"/>
   </context>
 </application-state>

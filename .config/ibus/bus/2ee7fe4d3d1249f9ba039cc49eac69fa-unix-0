@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/elsha/.cache/ibus/dbus-N43N0CXu,guid=5ef3d5c9c95b51ead10a12d362539b08
-IBUS_DAEMON_PID=1603
+IBUS_ADDRESS=unix:abstract=/home/elsha/.cache/ibus/dbus-YCCk6Jat,guid=6de9f9b4275ae309f23049b862b7bb6b
+IBUS_DAEMON_PID=1465
