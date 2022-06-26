@@ -19,7 +19,7 @@ user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1656210794)
 user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1656211154);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1656210883);
 user_pref("app.update.lastUpdateTime.region-update-timer", 1656211034);
-user_pref("app.update.lastUpdateTime.rs-experiment-loader-timer", 1656210527);
+user_pref("app.update.lastUpdateTime.rs-experiment-loader-timer", 1656211274);
 user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1656210554);
 user_pref("app.update.lastUpdateTime.services-settings-poll-changes", 1656210674);
 user_pref("app.update.lastUpdateTime.telemetry_modules_ping", 1649508566);
