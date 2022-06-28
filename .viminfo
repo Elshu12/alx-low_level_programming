@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656217808,,"wq"
+|2,0,1656383884,,"wq"
 :q
 |2,0,1649647973,,"q"
 ::w
@@ -35,32 +35,52 @@
 # Registers:
 
 # File marks:
-'0  2  7  ~/0x01-shell_permission/0-iam_betty
-|4,48,2,7,1656217808,"~/0x01-shell_permission/0-iam_betty"
-'1  1  41  ~/0x01-shell_permission/README.md
-|4,49,1,41,1656217776,"~/0x01-shell_permission/README.md"
-'2  1  13  ~/0x00-vagrant/0x00-vagrant
-|4,50,1,13,1656216327,"~/0x00-vagrant/0x00-vagrant"
-'3  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,51,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
-'4  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
-|4,52,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
-'5  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,53,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+'0  1  11  ~/0-hello_world
+|4,48,1,11,1656383884,"~/0-hello_world"
+'1  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,49,2,7,1656217808,"~/0x01-shell_permission/0-iam_betty"
+'2  1  41  ~/0x01-shell_permission/README.md
+|4,50,1,41,1656217776,"~/0x01-shell_permission/README.md"
+'3  1  13  ~/0x00-vagrant/0x00-vagrant
+|4,51,1,13,1656216327,"~/0x00-vagrant/0x00-vagrant"
+'4  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,52,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+'5  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,53,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
 '6  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
 |4,54,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
-'7  1  0  ~/gitconfig
-|4,55,1,0,1649627156,"~/gitconfig"
+'7  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,55,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+'8  1  0  ~/gitconfig
+|4,56,1,0,1649627156,"~/gitconfig"
 
 # Jumplist (newest first):
+-'  1  11  ~/0-hello_world
+|4,39,1,11,1656383884,"~/0-hello_world"
 -'  2  7  ~/0x01-shell_permission/0-iam_betty
 |4,39,2,7,1656217808,"~/0x01-shell_permission/0-iam_betty"
+-'  2  7  ~/0x01-shell_permission/0-iam_betty
+|4,39,2,7,1656217808,"~/0x01-shell_permission/0-iam_betty"
+-'  1  0  ~/0x01-shell_permission/0-iam_betty
+|4,39,1,0,1656217791,"~/0x01-shell_permission/0-iam_betty"
 -'  1  0  ~/0x01-shell_permission/0-iam_betty
 |4,39,1,0,1656217791,"~/0x01-shell_permission/0-iam_betty"
 -'  1  41  ~/0x01-shell_permission/README.md
 |4,39,1,41,1656217776,"~/0x01-shell_permission/README.md"
 -'  1  41  ~/0x01-shell_permission/README.md
 |4,39,1,41,1656217776,"~/0x01-shell_permission/README.md"
+-'  1  41  ~/0x01-shell_permission/README.md
+|4,39,1,41,1656217776,"~/0x01-shell_permission/README.md"
+-'  1  41  ~/0x01-shell_permission/README.md
+|4,39,1,41,1656217776,"~/0x01-shell_permission/README.md"
+-'  1  13  ~/0x00-vagrant/0x00-vagrant
+|4,39,1,13,1656216327,"~/0x00-vagrant/0x00-vagrant"
+-'  1  13  ~/0x00-vagrant/0x00-vagrant
+|4,39,1,13,1656216327,"~/0x00-vagrant/0x00-vagrant"
+-'  1  13  ~/0x00-vagrant/0x00-vagrant
+|4,39,1,13,1656216327,"~/0x00-vagrant/0x00-vagrant"
+-'  1  13  ~/0x00-vagrant/0x00-vagrant
+|4,39,1,13,1656216327,"~/0x00-vagrant/0x00-vagrant"
 -'  1  13  ~/0x00-vagrant/0x00-vagrant
 |4,39,1,13,1656216327,"~/0x00-vagrant/0x00-vagrant"
 -'  1  13  ~/0x00-vagrant/0x00-vagrant
@@ -85,6 +105,38 @@
 |4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
 -'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
 |4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,11,0,1649647973,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
+|4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
 |4,39,1,0,1649647833,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
@@ -133,6 +185,38 @@
 |4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
 -'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
 |4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  11  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,11,0,1649646986,"~/alx-low_level_programming/0x00-hello_world/main.c"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/main.c
 |4,39,1,0,1649646857,"~/alx-low_level_programming/0x00-hello_world/main.c"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/main.c
@@ -165,96 +249,21 @@
 |4,39,1,0,1649646857,"~/alx-low_level_programming/0x00-hello_world/main.c"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/main.c
 |4,39,1,0,1649646857,"~/alx-low_level_programming/0x00-hello_world/main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-main.c
-|4,39,1,0,1649632447,"~/alx-low_level_programming/0x00-hello_world/0-main.c"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
--'  1  0  ~/gitconfig
-|4,39,1,0,1649627156,"~/gitconfig"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,1,0,1649646857,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,1,0,1649646857,"~/alx-low_level_programming/0x00-hello_world/main.c"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/main.c
+|4,39,1,0,1649646857,"~/alx-low_level_programming/0x00-hello_world/main.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0-hello_world
+	*	1656383883	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
 
 > ~/0x01-shell_permission/0-iam_betty
 	*	1656217807	0
