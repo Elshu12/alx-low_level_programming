@@ -89,3 +89,15 @@ ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/focal-updates/main/dist-upg
 ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/focal-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
 UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/focal-updates/main/dist-upgrader-all/current/focal.tar.gz
 UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/focal-updates/main/dist-upgrader-all/current/focal.tar.gz.gpg
+
+Dist: jammy
+Name: Jammy Jellyfish
+Version: 22.04.1 LTS
+Date: Thu, 21 April 2022 22:04:00 UTC
+Supported: 1
+Description: This is the 22.04.1 LTS release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/jammy.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/jammy.tar.gz.gpg

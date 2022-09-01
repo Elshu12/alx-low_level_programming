@@ -1,9 +1,8 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox.desktop" score="2" last-seen="1656210556"/>
-    <application id="gnome-control-center.desktop" score="2.5" last-seen="1656210498"/>
-    <application id="org.gnome.Terminal.desktop" score="14762.28125" last-seen="1656217672"/>
-    <application id="update-manager.desktop" score="0" last-seen="1656209794"/>
+    <application id="org.remmina.Remmina.desktop" score="1" last-seen="1661792084"/>
+    <application id="org.gnome.Terminal.desktop" score="15055.28125" last-seen="1661794008"/>
+    <application id="update-manager.desktop" score="0" last-seen="1661792497"/>
   </context>
 </application-state>
